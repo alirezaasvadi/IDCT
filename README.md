@@ -2,9 +2,8 @@
 Incremental Discriminative Color Object Tracking
 
 This code is a Matlab implementation of IDCTracker, the tracking algorithm is described in: 
+Alireza Asvadi, Hami Mahdavinataj, MohammadReza Karami and Yasser Baleghi,
 "Incremental Discriminative Color Object Tracking"
-Author: Alireza Asvadi, Hami Mahdavinataj, MohammadReza Karami and Yasser Baleghi
-Symposium on Artificial Intelligence and Signal Processing (AISP) 2013
 Artificial Intelligence and Signal Processing, Communications in Computer and Information Science, Volume 427, 
 Springer Verlag 2014, pp 71-81. DOI:10.1007/978-3-319-10849-0_8
 
