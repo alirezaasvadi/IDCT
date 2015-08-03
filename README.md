@@ -10,8 +10,8 @@ Springer Verlag 2014, pp 71-81. DOI:10.1007/978-3-319-10849-0_8
 ===============================================================================
 
 The code is tested on Windows/Linux with MATLAB R2011a-R2013a.
-A test sequence "Basketball" is included so you can simply run Demo.m
-Object rectangle and center location are saved in: [Database Name]R.mat and [Database Name]C.mat
+A test sequence "Basketball" is included so you can simply run Demo.m.
+Object rectangle and center location are saved in: [Database Name]R.mat and [Database Name]C.mat.
 The functions are:
 
 cntd  - computes centroid
