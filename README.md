@@ -16,14 +16,21 @@ Object rectangle and center location are saved in: [Database Name]R.mat and [Dat
 The functions are:
 
 cntd  - computes centroid
+
 llr   - computes log liklihood ratio
+
 map   - computes object map
+
 prext - prevent rectangle from exiting frames 
+
 sarea - computes search area
+
 shw   - show
+
 upmdl - updates model
 
 ================================================================================
 
 Questions regarding the code may be directed to alireza.asvadi@gmail.com
+
 http://a-asvadi.ir/idct/
