@@ -31,4 +31,3 @@ shw   - show
 
 upmdl - updates model
 
-http://a-asvadi.ir/idct/
